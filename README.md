@@ -1,5 +1,5 @@
 
-### Hello, my name is Hugo but my family call me CheMio <div>
+### Hello, my name is Hugo but my family call me <div>
 <img border="right" src="Logo chemio3.png" width="100" height="50">
 </div>
 
