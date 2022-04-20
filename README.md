@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...
-
+- 🔭 I’m currently working on UNI
+- 💬 Ask me about your skills
 
 
 <!--
