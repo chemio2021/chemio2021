@@ -1,5 +1,6 @@
-
-
+<div style="display:inline_black"><br>
+<img border="0" src="figures/vowels1_large.jpg" width="287" height="290">
+</div>
 ### Hello, my name is Hugo but my family call me CheMio 
 - 🔭 I’m currently working on UNI
 - 💬 Ask me about your skills
