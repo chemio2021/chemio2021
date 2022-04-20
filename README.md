@@ -3,7 +3,7 @@
 ### Hello, my name is Hugo but my family call me CheMio 
 - 🔭 I’m currently working on UNI
 - 💬 Ask me about your skills
-- I have a [youtube channel](https://www.youtube.com/results?search_query=Hugo+Chirinos)(in spanish) about technology.
+- I have a [YouTube channel] (https://www.youtube.com/results?search_query=Hugo+Chirinos)(in spanish) about new technology, if you are interested SUBSCRIBE.
 
 
 <!--
