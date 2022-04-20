@@ -4,9 +4,8 @@
 </div>
 
 - 🔭 I’m currently working at UNI doing a research project about the installation of a pilot plant to produce hydrogen.
-- 💬 Ask me about your skills
 - 🎥 I have a [youtube channel](https://www.youtube.com/results?search_query=Hugo+Chirinos) (in spanish) about new technology, if you are interested SUBSCRIBE.
-
+- 💬 Ask me about your skills
 ##
 
 <div>
