@@ -5,7 +5,7 @@
 - I have a [youtube channel](https://www.youtube.com/results?search_query=Hugo+Chirinos) (in spanish) about new technology, if you are interested SUBSCRIBE.
 
 <div>
-<img border="right" src="figures/vowels1_large.jpg" width="100" height="50">
+<img border="right" src="Logo chemio3.png" width="100" height="50">
 </div>
 ##
 
