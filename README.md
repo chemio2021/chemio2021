@@ -1,4 +1,6 @@
-### Hi there 👋
+
+
+### Hello, my name is Hugo but my family call me CheMio 
 - 🔭 I’m currently working on UNI
 - 💬 Ask me about your skills
 
